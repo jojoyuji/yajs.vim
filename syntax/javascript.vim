@@ -78,7 +78,7 @@ syntax keyword javascriptDocTags               contained summary todo license pr
 
 syntax keyword javascriptDocTags               contained borrows exports nextgroup=javascriptDocA skipwhite
 syntax keyword javascriptDocTags               contained param arg argument property prop module nextgroup=javascriptDocNamedParamType,javascriptDocParamName skipwhite
-syntax keyword javascriptDocTags               contained define enum extends implements this typedef nextgroup=javascriptDocParamType skipwhite
+syntax keyword javascriptDocTags               contained define extends implements this typedef nextgroup=javascriptDocParamType skipwhite
 syntax keyword javascriptDocTags               contained returns throws exception nextgroup=javascriptDocParamType,javascriptDocParamName skipwhite
 syntax keyword javascriptDocTags               contained see nextgroup=javascriptDocRef skipwhite
 
