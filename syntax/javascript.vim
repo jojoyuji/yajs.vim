@@ -140,7 +140,7 @@ syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptStr
 syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptStrings switch throw try typeof var
 syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptStrings void while with yield
 
-syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptStrings enum implements package protected static
+syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptStrings implements package protected 
 syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptStrings interface private public abstract boolean
 syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptStrings byte char double final float goto int
 syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptStrings long native short synchronized transient
